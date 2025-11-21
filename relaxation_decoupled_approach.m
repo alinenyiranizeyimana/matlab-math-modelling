@@ -100,6 +100,7 @@ Ide= eye(N+1)
 S0 = 990; I0 = 10 ; R0 = 0;
 gamma = 0.1; beta = 0.0004
 
+
 %********* making them as a column
 
 S = S0* ones(N+1,1);
