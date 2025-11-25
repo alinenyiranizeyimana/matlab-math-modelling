@@ -20,6 +20,7 @@ imshow(image)
 
 function return_dydt = SIR(t,y)
 
+
 gamma = 0.1;
 beta = 0.0004;
 
